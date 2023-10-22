@@ -19,7 +19,5 @@ export class RecipeListComponent implements OnInit {
       'http://upload.wikimedia.org/wikipedia/commons/1/15/Recipe_logo.jpeg'
     ),
   ];
-  ngOnInit(): void {
-    throw new Error('Method not implemented.');
-  }
+  ngOnInit(): void {}
 }
